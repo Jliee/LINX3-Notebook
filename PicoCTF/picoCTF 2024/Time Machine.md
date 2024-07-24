@@ -38,7 +38,7 @@ objects
 refs
 ```
 
-Inspect the commit_editmsg file:
+Inspect the commi_editmsg file:
 ```
 > cat COMMIT_EDITMSG
 picoCTF{t1m3m@ch1n3_186cd7d7}
