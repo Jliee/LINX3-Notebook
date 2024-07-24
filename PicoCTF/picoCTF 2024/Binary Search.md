@@ -1,5 +1,6 @@
-
 # Binary Search
+
+#picoCTF2024 #Easy #GeneralSkills #shell #browser_webshell_solvable #ls
 
 AUTHOR: JEFFERY JOHN
 #### Description
